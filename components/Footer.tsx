@@ -11,6 +11,7 @@ const links = {
     { href: "#support",      label: "What We Support" },
     { href: "#process",      label: "Our Process" },
     { href: "#apply",        label: "Apply" },
+    { href: "/terms",        label: "Terms and Conditions" },
   ],
   "Get Involved": [
     { href: "#",             label: "Contribute" },
